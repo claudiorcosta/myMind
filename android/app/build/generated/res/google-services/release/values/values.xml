@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">939067420659-khdgdt4t542df562pjo8b9otts0pkgdp.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">939067420659</string>
+    <string name="google_api_key" translatable="false">AIzaSyBVIalGIJLT-Gw7_kLJYDEAd7y-NfYwvBU</string>
+    <string name="google_app_id" translatable="false">1:939067420659:android:1e01dc193028e25d4e6c86</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBVIalGIJLT-Gw7_kLJYDEAd7y-NfYwvBU</string>
+    <string name="google_storage_bucket" translatable="false">mymind-5dc60.appspot.com</string>
+    <string name="project_id" translatable="false">mymind-5dc60</string>
+</resources>
